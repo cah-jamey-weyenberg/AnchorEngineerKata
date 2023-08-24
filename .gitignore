@@ -1,0 +1,6 @@
+# put here the files to ignore for the git add and commit
+.idea
+.gradle
+build
+### macOS ###
+*.DS_Store
